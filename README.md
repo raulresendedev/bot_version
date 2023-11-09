@@ -1,6 +1,6 @@
 # Visão Geral
 
-O repositório bot_version é dedicado a hospedar e gerenciar as atualizações para o botzapp, um bot de WhatsApp utilizado para envio automatizado de mensagens personalizadas, como parte de uma estratégia de mala direta. Este repositório é uma parte crucial do sistema de atualizações do botzapp, garantindo que os usuários sempre tenham a versão mais recente e eficiente do software.
+Este repositório é dedicado a hospedar e gerenciar as atualizações para o botzapp, um bot de WhatsApp utilizado para envio automatizado de mensagens personalizadas, como parte de uma estratégia de mala direta. Este repositório é uma parte crucial do sistema de atualizações do botzapp, garantindo que os usuários sempre tenham a versão mais recente e eficiente do software.
 
 ## O repositório contém os seguintes arquivos principais:
 
